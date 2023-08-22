@@ -46,4 +46,4 @@ describe("index", () => {
       expect(fn.name).to.eql("");
     });
   });
-});
+}); 
